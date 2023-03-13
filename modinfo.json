@@ -1,0 +1,11 @@
+[
+{
+"type": "MOD_INFO",
+"id": "BumblecatMod",
+"name": "BumblecatMod",
+"maintainers": [ "ChatGPT" ],
+"description": "Adds the Bumblecat, a friendly feline companion that can be tamed and kept as a pet.",
+"category": "creatures",
+"dependencies": [ "dda" ]
+}
+]
